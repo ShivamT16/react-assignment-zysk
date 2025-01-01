@@ -17,7 +17,7 @@ export const SocialProof = () => {
     return(
         <section className="mx-[3%]">
 
-            <p className="text-lg text-slate-500 font-medium text-center pt-14 pb-10"> Join 4,000+ companies already growing </p>
+            <p className="text-lg text-slate-500 font-medium text-center pt-14 pb-8"> Join 4,000+ companies already growing </p>
             
             <div className="flex justify-evenly flex-wrap pb-10">
               { socialArray.map(({logo, name}) => 
