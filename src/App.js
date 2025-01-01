@@ -5,6 +5,7 @@ import { HeaderSection } from "./components/HeaderSection";
 import { Navbar } from "./components/Navbar";
 import { SocialProof } from "./components/SocialProof";
 import { Testomonial } from "./components/TestomonialSection";
+import { TrialPage } from "./components/TrialPage";
 import "./index.css"
 
 function App() {
@@ -17,6 +18,8 @@ function App() {
       <Testomonial />
       <FeaturesSection />
       <FAQsPages />
+      
+      <TrialPage />
     </div>
   );
 }
