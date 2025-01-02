@@ -8,8 +8,8 @@ $ npm install
 $ npm start
 ```
 ### Tech
-React  
-Tailwind
+ReactJs  
+TailwindCSS
 
 ### Any Queries?
 mail to- shivamtripathi385@gamil.com
