@@ -1,7 +1,7 @@
 
 export const TrialPage = () => {
   return (
-    <div className="text-center bg-slate-50 py-14 my-[6%]">
+    <div className="text-center bg-slate-50 py-14 my-[5%]">
 
         <p className="text-4xl font-bold">Start your free trial</p>
         <p className="text-xl py-6 text-slate-600">Join over 4,000+ startups already growing with Untitled</p>
