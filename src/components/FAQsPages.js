@@ -21,9 +21,9 @@ export const FAQsPages = () => {
     <div className='text-center py-10'>
 
         <p className='text-4xl font-semibold'>Frequently asked questions</p>
-        <p className='text-xl text-slate-600 py-6' >Everything you need to know about the product and billing.</p>
+        <p className='text-xl text-slate-600 py-6'>Everything you need to know about the product and billing.</p>
 
-        <div className="mx-[20%] text-left p-2" >
+        <div className="mx-4 md:mx-[20%] text-left p-2" >
          {
             FaqArray.map(({id, faq, answer}) => 
             <div key={id} className="border-b mx-5 py-4" >
